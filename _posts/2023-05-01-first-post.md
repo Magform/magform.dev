@@ -1,5 +1,7 @@
 ---
 Title: "First post"
+classes: wide
+toc: false
 categories:
     - others
 tags:
