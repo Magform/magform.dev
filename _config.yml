@@ -25,7 +25,7 @@ url                      : "https://magform.dev"
 baseurl                  : 
 repository               : "Magform/magform.dev"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/icon.jpeg"
+logo                     : "/assets/images/icon.png"
 masthead_title           : "Magform.dev"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -285,7 +285,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
       toc: true
