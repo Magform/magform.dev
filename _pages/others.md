@@ -1,7 +1,6 @@
 ---
 title: "Others"
 permalink: /others/
-layout: posts
-author_profile: true
+layout: category
 taxonomy: others
 ---

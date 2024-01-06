@@ -1,7 +1,6 @@
 ---
 title: "Home lab"
 permalink: /home-lab/
-layout: posts
-author_profile: true
+layout: category
 taxonomy: home-lab
 ---
