@@ -1,26 +1,28 @@
 ---
 title: "All posts"
-permalink: /
+permalink: /about/
 author_profile: true
 ---
 
 # About Me
 
-Hi, I'm Nicolas Ferraresso aka Magform! 👋 I'm a developer currently studying computer engineering at the University of Padua in Italy.
+Hello! Welcome to my blog. My name is Nicolas Ferraresso aka Magform. I'm a developer currently studying computer engineering at the University of Padua in Italy.
 
 ## Interests
 
-- **3D Modeling and Printing:** I love creating 3D models with Fusion360 and bringing them to life with my modded Ender3.
+I have a wide range of interests in the tech world. Here are a few that I'm particularly passionate about:
 
-- **Embedded Systems:** I enjoy working with embedded systems, including platforms like mbed, Arduino, and Raspberry Pi. Designing custom hardware and programming microcontrollers to bring innovative projects to life.
+- **3D Modeling and Printing:** One of my hobbies is creating 3D models using Fusion360 and bringing them to life with my modded Ender3 printer.
 
-- **Server and Self-Hosting:** I'm experienced in setting up and maintaining my servers for various applications and services.
+- **Embedded Systems:** I enjoy working with embedded systems, such as mbed, Arduino, and Raspberry Pi. I love designing custom hardware and programming microcontrollers to bring innovative projects to life.
 
-- **Prototyping:** I'm always eager to prototype new ideas using Arduino or other embedded systems, I especially like to create new integrations to automate devices at home.
+- **Server and Self-Hosting:** I have experience in setting up and maintaining servers for various applications and services.
 
-- **Cybersecurity:** I have a strong interest in cybersecurity and stay up-to-date with the latest trends and challenges in the field.
+- **Prototyping:** I'm always excited to prototype new ideas using Arduino or other embedded systems. I especially enjoy creating integrations to automate devices at home.
 
-- **Body Hacking:** Exploring the intersection of technology and the human body fascinates me.
+- **Cybersecurity:** I have a strong interest in cybersecurity and keep myself up-to-date with the latest trends and challenges in the field.
+
+- **Body Hacking:** The intersection of technology and the human body is an area that fascinates me in particular how our body can be improved using new technology.
 
 ## Education and Skills
 
@@ -31,3 +33,17 @@ One notable achievement during my university journey is my participation in the 
 I had the incredible opportunity to participate in an Erasmus program at [Mittuniversitetet](https://www.miun.se/en/) in Sweden. This experience allowed me to broaden my horizons, experience a different educational environment, and collaborate with international peers, further enriching my knowledge and skills.
 
 My academic and practical experiences have equipped me with a solid foundation in computer engineering, programming, and problem-solving, making me well-prepared for exciting challenges and projects in the tech world.
+
+## The Blog
+
+After much reflection, I have decided to start my blog.
+
+My blog will cover the following topics:
+
+- **Home Lab:** I have a small home lab that I'm planning to expand. I will discuss the tools, technologies, and equipment I use, why I chose them, and share my experiences with them.
+
+- **Projects:** I will also talk about my future projects and their development progress. Particularly, I enjoy working on embedded systems, especially for home automation.
+
+- **Others:** Additionally, I may write about cybersecurity-related topics or even share my philosophical ideas.
+
+Feel free to explore the various categories and tags to find content that interests you. If you have any specific programming questions, coding problems, or topics you'd like me to cover, don't hesitate to reach out. I would love to engage with you and build a community where we can all learn from each other.
