@@ -1,10 +1,9 @@
 ---
-title: "All posts"
+title: "About Me"
 permalink: /about/
 author_profile: true
+toc: false
 ---
-
-# About Me
 
 Hello! Welcome to my blog. My name is Nicolas Ferraresso aka Magform. I'm a developer currently studying computer engineering at the University of Padua in Italy.
 
