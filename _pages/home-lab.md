@@ -1,6 +1,6 @@
 ---
-title: "Home lab"
+title: "Home Lab"
 permalink: /home-lab/
 layout: category
-taxonomy: home-lab
+taxonomy: Home Lab
 ---
