@@ -2,5 +2,5 @@
 title: "Projects"
 permalink: /projects/
 layout: category
-taxonomy: projects
+taxonomy: project
 ---

@@ -3,9 +3,9 @@ Title: "First post"
 classes: wide
 toc: false
 categories:
-    - others
+    - other
 tags:
-    - others
+    - other
 ---
 
 # First post
