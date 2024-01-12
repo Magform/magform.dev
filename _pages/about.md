@@ -43,6 +43,8 @@ My blog will cover the following topics:
 
 - **Projects:** I will also talk about my future projects and their development progress. Particularly, I enjoy working on embedded systems, especially for home automation.
 
+- **Reviews:** In this section, I'll provide in-depth reviews of the hardware and software that I'm using. I'll share my honest opinions and experiences. Expect detailed assessments, graphs, and comparisons, to help you make informed decisions on the products and services I explore.
+
 - **Others:** Additionally, I may write about cybersecurity-related topics or even share my philosophical ideas.
 
-Feel free to explore the various categories and tags to find content that interests you. If you have any specific programming questions, coding problems, or topics you'd like me to cover, don't hesitate to reach out. I would love to engage with you and build a community where we can all learn from each other.
+Feel free to explore the various categories and tags to find content that interests you. If you have any specific programming questions, coding problems, topics you'd like me to cover, or things to review don't hesitate to reach out. I would love to engage with you and build a community where we can all learn from each other.
