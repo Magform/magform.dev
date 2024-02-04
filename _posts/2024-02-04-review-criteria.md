@@ -8,7 +8,7 @@ tags:
     - Criteria
     - Testing
     - Hardware
-excerpt: "An idea for setting up a home lab for learning server management, networking, and more."
+excerpt: "Explore the criteria shaping my in-depth tech hardware reviews, encompassing servers, miniPCs, routers, firewalls, and beyond."
 ---
 
 # Review Criteria
