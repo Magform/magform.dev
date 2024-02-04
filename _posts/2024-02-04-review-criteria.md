@@ -2,9 +2,9 @@
 Title: "Review Criteria"
 toc: true
 categories:
-    - Reviews
+    - Review
 tags:
-    - Reviews
+    - Review
     - Criteria
     - Testing
     - Hardware
