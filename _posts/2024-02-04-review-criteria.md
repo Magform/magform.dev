@@ -32,11 +32,9 @@ Feel free to explore this guide and grasp the intricate details that influence m
 ### CPU
 - Provide details about the CPU model, architecture, and clock speed.
 - Include benchmark performance or real-world usage observations.
-- Discuss any overclocking capabilities and stability.
 
 ### RAM
 - Specify the RAM type, capacity, and speed.
-- Evaluate the impact of RAM on overall system performance.
 - Discuss the upgradeability and available RAM slots.
 
 ### Storage
@@ -46,7 +44,6 @@ Feel free to explore this guide and grasp the intricate details that influence m
 
 ### GPU
 - Specify the GPU model and its architecture.
-- Discuss the GPU's performance in graphics-intensive tasks, gaming, and other relevant applications.
 - Include benchmark results for graphics performance.
 - Discuss any unique features or technologies associated with the GPU.
 
@@ -57,14 +54,13 @@ Feel free to explore this guide and grasp the intricate details that influence m
 - Discuss the impact of thermal performance on overall system stability.
 
 ### Power Consumption
-- Specify the power supply unit's rating and efficiency.
 - Provide details on power consumption under different workloads.
 - Discuss any power-saving features or technologies implemented.
 
 ### Packaging
+- Discuss any additional accessories included in the package.
 - Evaluate the quality and design of the product's packaging.
 - Assess the protection provided to the hardware during transportation.
-- Discuss any additional accessories or documentation included in the package.
 
 ### Price 
 - Include the current market price of the hardware.
