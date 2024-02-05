@@ -30,7 +30,7 @@ Machine name | Hardware | CPU | RAM | Graphic Card | Storage
 VMs | Dell Precision 5810 | Intel Xeon E5-1650 v4 | 2x16GB | Nvidia Quadro M4000 8GB | 4TB HDD + 2x256GB SSD
 Storage | HP Proliant DL360p G8 | 2xE5-E650L V2 | 8x8GB | none | 4x6TB HDD
 3D Printer | Raspberry pi 3B | ARM Cortex-A53 | 1GB | none | 64GB SD
-Router | MiniPC | N100 | 8GB | none | 128GB SSD
+Router | Fodenn F10 | N95 | 16GB | none | 512GB M.2 SSD
 Switch | PLANET WGSW-28040 | | | |
 
 ## Configuration and Utilities
@@ -68,7 +68,7 @@ Utilizing the Raspberry Pi 3B, I'll enhance my 3D printer experience by implemen
 
 ### Router
 
-The MiniPC will serve as an always-on machine, providing more than just routing capabilities. It will also host various monitoring tools, smart home applications, and utility services:
+The Fodemm F10 MiniPC will serve as an always-on machine, providing more than just routing capabilities. It will also host various monitoring tools, smart home applications, and utility services:
 
 #### Monitoring
 
