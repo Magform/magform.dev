@@ -30,7 +30,7 @@ Machine name | Hardware | CPU | RAM | Graphic Card | Storage
 VMs | Dell Precision 5810 | Intel Xeon E5-1650 v4 | 2x16GB | Nvidia Quadro M4000 8GB | 4TB HDD + 2x256GB SSD
 Storage | HP Proliant DL360p G8 | 2xE5-E650L V2 | 8x8GB | none | 4x6TB HDD
 3D Printer | Raspberry pi 3B | ARM Cortex-A53 | 1GB | none | 64GB SD
-Router | Fodenn F10 | N95 | 16GB | none | 512GB M.2 SSD
+HomeHub | Fodenn F10 | N95 | 16GB | none | 512GB M.2 SSD
 Switch | PLANET WGSW-28040 | | | |
 
 ## Configuration and Utilities
@@ -66,9 +66,9 @@ I will run a media manager and backup services on separate VMs with Docker insid
 
 Utilizing the Raspberry Pi 3B, I'll enhance my 3D printer experience by implementing Klipper and Mainsail, potentially using [Printd](https://github.com/mkuf/prind) for configuring and controlling everything.
 
-### Router
+### HomeHub
 
-The Fodemm F10 MiniPC will serve as an always-on machine, providing more than just routing capabilities. It will also host various monitoring tools, smart home applications, and utility services:
+The Fodemm F10 MiniPC is set up for constant operation, providing a platform for various monitoring tools, smart home applications, and utility services (like VPN and AP).
 
 #### Monitoring
 
@@ -87,7 +87,7 @@ The Fodemm F10 MiniPC will serve as an always-on machine, providing more than ju
 
 - [dashboard](https://github.com/gethomepage/homepage)
 - [Portainer](https://www.portainer.io/)
-- [OpenWRT](https://openwrt.org/)
+- [RaspAP](https://raspap.com/)
 - [piHole](https://pi-hole.net/)
 - [Cloudflared](https://hub.docker.com/r/cloudflare/cloudflared)
 - [Authelia](https://www.authelia.com/)
@@ -96,4 +96,6 @@ The Fodemm F10 MiniPC will serve as an always-on machine, providing more than ju
 
 ## Conclusion
 
-This represents my current blueprint for the home lab. Over the next few weeks, I'll delve into the configurations, foreseeing possible adjustments and enhancements. Stay tuned for updates on my evolving ideas, configurations, and experiments within my home lab.
+This represents my current blueprint for the home lab. Over the next few weeks, I'll delve into the configurations, foreseeing possible adjustments and enhancements.
+
+Stay tuned for updates on my evolving ideas, configurations, and experiments within my home lab.
