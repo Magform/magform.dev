@@ -85,14 +85,13 @@ The Fodemm F10 MiniPC is set up for constant operation, providing a platform for
 
 #### Utility
 
+- [Access Point](https://github.com/lakinduakash/linux-wifi-hotspot)
 - [dashboard](https://github.com/gethomepage/homepage)
-- [Portainer](https://www.portainer.io/)
-- [RaspAP](https://raspap.com/)
 - [piHole](https://pi-hole.net/)
-- [Cloudflared](https://hub.docker.com/r/cloudflare/cloudflared)
-- [Authelia](https://www.authelia.com/)
 - [VaultWarden](https://github.com/dani-garcia/vaultwarden)
 - [Nginx Proxy Manager](https://nginxproxymanager.com/)
+- [WireGuard](https://www.wireguard.com/)
+- [Cloudflared](https://hub.docker.com/r/cloudflare/cloudflared)
 
 ## Conclusion
 
