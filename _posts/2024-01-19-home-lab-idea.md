@@ -28,7 +28,7 @@ Outlined below are the components currently in my possession or slated for acqui
 Machine name | Hardware | CPU | RAM | Graphic Card | Storage
 ---|---|---|---|---|---
 VMs | Dell Precision 5810 | Intel Xeon E5-1650 v4 | 2x16GB | Nvidia Quadro M4000 8GB | 4TB HDD + 2x256GB SSD
-Storage | HP Proliant DL360p G8 | 2xE5-E650L V2 | 8x8GB | none | 4x6TB HDD
+Storage | HP Proliant DL360p G8 | 2xE5-2650L V2 | 8x8GB | none | 4x6TB HDD
 3D Printer | Raspberry pi 3B | ARM Cortex-A53 | 1GB | none | 64GB SD
 HomeHub | Fodenn F10 | N95 | 16GB | none | 512GB M.2 SSD
 Switch | PLANET WGSW-28040 | | | |
