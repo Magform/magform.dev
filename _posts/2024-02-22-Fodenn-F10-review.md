@@ -8,7 +8,7 @@ tags:
     - Testing
     - Hardware
     - Mini PC
-excerpt: ""
+excerpt: "Explore the strengths, weaknesses, and perceived value of the Fodenn F10 in our in-depth review, providing a comprehensive overview of its features, performance, and potential drawbacks."
 header:
   overlay_image: /assets/images/Fodenn_F10/main.jpg
   teaser: /assets/images/Fodenn_F10/main.jpg
@@ -118,11 +118,6 @@ The Fodenn F10 stands out for its reliable performance and thoughtful design, ma
 - **Storage Defects**: Initial metrics suggest the SSD may not be entirely new, warranting consideration.
 - **Price**: The price, if higher than €200, appears to be too high.
 
-## Useful Links
-- [CPU Details](https://www.intel.com/content/www/us/en/products/sku/231800/intel-processor-n95-6m-cache-up-to-3-40-ghz/specifications.html)
-
-In conclusion, the Fodenn F10 presents itself as a reliable and versatile mini PC, offering a balance of performance and features. Its competitive pricing on Amazon makes it a compelling choice, especially when considering the additional accessories included in the package. If obtained at a discount, the Fodenn F10 becomes a more attractive option, backed by Amazon's renowned customer service.
-
-**Note:** The potential concerns about the SSD's condition raise a cautionary flag, and prospective buyers should verify this aspect before making a purchase. Overall, the Fodenn F10 holds its ground in the competitive mini PC market, providing a solid computing solution for various needs.
 ## Useful links:
 - [CPU details](https://www.intel.com/content/www/us/en/products/sku/231800/intel-processor-n95-6m-cache-up-to-3-40-ghz/specifications.html)
+- [Review Criteria](https://magform.dev/review/review-criteria/)
