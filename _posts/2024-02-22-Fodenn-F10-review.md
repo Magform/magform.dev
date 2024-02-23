@@ -8,6 +8,7 @@ tags:
     - Testing
     - Hardware
     - Mini PC
+    - Foden F10
 excerpt: "Explore the strengths, weaknesses, and perceived value of the Fodenn F10 in our in-depth review, providing a comprehensive overview of its features, performance, and potential drawbacks."
 header:
   overlay_image: /assets/images/Fodenn_F10/main.jpg
