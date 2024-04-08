@@ -59,7 +59,7 @@ header:
 - **Speed**: ![Cristal Disk Mark](/assets/images/Fodenn_F10/CDisk2.png)
 - **Upgradability**: Only one M.2 slot, but the presence of an extra SATA bay allows for storage expansion.
 - **Defects**: During one of the initial startup sessions (within the second or third boot and less than an hour of uptime), noteworthy metrics surfaced regarding the SSD. With readings such as 85 Power On Count, 34 Power On Hours, Total Reads > 2TB, and total Host Writes >2TB, it raises the possibility that the SSD might not be entirely new. While this could be attributed to the preinstalled Windows operating system, the relatively high figures prompt consideration.
-![S.A.R.T.](/assets/images/Fodenn_F10/S.M.A.R.T.png)
+![S.M.A.R.T.](/assets/images/Fodenn_F10/S.M.A.R.T.png)
 
 ### GPU
 - **Integrated GPU**: Intel® UHD Graphics, running at 1.20GHz and supporting 4K resolution at 60Hz.
