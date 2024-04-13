@@ -16,11 +16,12 @@ header:
 
 # ThimbleKrox
 _A thimble which, thanks to a GY-521 and an Arduino Micro, can control the mouse pointer._
-
-<video controls autoplay loop>
-  <source src="/assets/images/ThimbleKrox/main.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="text-align:center;">
+  <video controls autoplay loop>
+    <source src="/assets/images/ThimbleKrox/main.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ## Introduction
 Imagine having the power to control your computer's mouse pointer with just the subtle movements of your finger. With ThimbleKrox, you can turn this into a reality using simple DIY techniques and readily available components like Arduino Micro and GY-521 sensor. Let's dive into the journey of creating your very own ThimbleKrox!
@@ -68,9 +69,10 @@ I did it in two versions, one clear which therefore does not require supports to
 * **With 3D Printed Thimble:** Insert the MPU-6050 into the upper cavity of the thimble, ensuring cables are housed in the lower cavity.
 
 * **Without 3D Printed Thimble:** Position the MPU-6050 on the last phalanx of the finger and secure it with adhesive tape or an elastic band.
-
-<a href="/assets/images/ThimbleKrox/soldering.jpg"><img src="/assets/images/ThimbleKrox/soldering.jpg"></a>
-<a href="/assets/images/ThimbleKrox/cable_management.jpg"><img src="/assets/images/ThimbleKrox/cable_management.jpg"></a>
+<figure class="half">
+  <a href="/assets/images/ThimbleKrox/soldering.jpg"><img src="/assets/images/ThimbleKrox/soldering.jpg"></a>
+  <a href="/assets/images/ThimbleKrox/cable_management.jpg"><img src="/assets/images/ThimbleKrox/cable_management.jpg"></a>
+</figure>
 
 ### Step 5: Code and Calibration
 
