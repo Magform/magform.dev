@@ -69,8 +69,8 @@ I did it in two versions, one clear which therefore does not require supports to
 
 * **Without 3D Printed Thimble:** Position the MPU-6050 on the last phalanx of the finger and secure it with adhesive tape or an elastic band.
 <figure class="half">
-<a href="/assets/images/ThimbleKrox/soldering.jpg"><img src="/assets/images/ThimbleKrox/soldering.jpg" style="height:200px;"></a>
-<a href="/assets/images/ThimbleKrox/cable_management.jpg"><img src="/assets/images/ThimbleKrox/cable_management.jpg" style="height:200px;"></a>
+  <a href="/assets/images/ThimbleKrox/soldering.jpg"><img src="/assets/images/ThimbleKrox/soldering.jpg" style="height:200px;"></a>
+  <a href="/assets/images/ThimbleKrox/cable_management.jpg"><img src="/assets/images/ThimbleKrox/cable_management.jpg" style="height:200px;width: 200px;"></a>
 </figure>
 
 ### Step 5: Code and Calibration
