@@ -19,11 +19,8 @@ header:
 
 ## Connectivity
 ### External
-<figure class="half">
-    <a href="/assets/images/Fodenn_F10/front.jpg"><img src="/assets/images/Fodenn_F10/front.jpg"></a>
-    <a href="/assets/images/Fodenn_F10/back.jpg"><img src="/assets/images/Fodenn_F10/back.jpg"></a>
-    <figcaption>Front and back</figcaption>
-</figure>
+![Back](/assets/images/Fodenn_F10/back.jpg "Back") ![Front](/assets/images/Fodenn_F10/front.jpg "Front")
+
 - **Ports**: We find 4 USB 3.0 ports, 2 HDMI ports, a headphone jack and a LAN port.
 - **Indicators**: Power and CLR COMS lights for quick status checks.
 - **Wireless**: Realtek 8821CE ensures a robust wireless experience with Bluetooth 5.0 and Wi-Fi 802.11ac.
@@ -79,11 +76,7 @@ header:
   - In idle mode, it consumes a mere 5W, resulting in a minimal daily usage of 0.12kW.
 
 ### Packaging
-<figure class="third">
-    <a href="/assets/images/Fodenn_F10/box.jpg"><img src="/assets/images/Fodenn_F10/box.jpg"></a>
-    <a href="/assets/images/Fodenn_F10/box_open.jpg"><img src="/assets/images/Fodenn_F10/box_open.jpg"></a>
-    <a href="/assets/images/Fodenn_F10/content.jpg"><img src="/assets/images/Fodenn_F10/content.jpg"></a>
-</figure>
+![Box](/assets/images/Fodenn_F10/box.jpg) ![Open Box](/assets/images/Fodenn_F10/box_open.jpg) ![Content](/assets/images/Fodenn_F10/content.jpg)   
 - **Contents**: Unbox a complete package featuring the MiniPC, along with a 20cm HDMI cable, a 1m HDMI cable, a Power Supply, a convenient Mounting Bracket (complete with screws), and an informative User Manual.
 - **Consideration**: I was pleasantly surprised by the presence of two HDMI cables which is not so common in these products
 
