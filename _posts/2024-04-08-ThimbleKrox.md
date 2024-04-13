@@ -47,13 +47,12 @@ Tools needed:
 
 ### Step 2: Connection
 Connect the Arduino pins to the MPU-6050 pins as follows:
-
+![Connections diagram](/assets/images/ThimbleKrox/connections_diagram.jpeg){: .align-right}{height="200"}
 * Arduino VCC to MPU-6050 VCC
 * Arduino GND to MPU-6050 GND
 * Arduino pin 2 to MPU-6050 SDA
 * Arduino pin 3 to MPU-6050 SCL
-  
-![Connections diagram](/assets/images/ThimbleKrox/connections_diagram.jpeg)
+
 
 ### Step 3: Optional 3D Printing
 If you want your thimble to look good, and if you have a 3D printer, you can print the physical thimble.
@@ -70,8 +69,8 @@ I did it in two versions, one clear which therefore does not require supports to
 
 * **Without 3D Printed Thimble:** Position the MPU-6050 on the last phalanx of the finger and secure it with adhesive tape or an elastic band.
 <figure class="half">
-  <a href="/assets/images/ThimbleKrox/soldering.jpg"><img src="/assets/images/ThimbleKrox/soldering.jpg"></a>
-  <a href="/assets/images/ThimbleKrox/cable_management.jpg"><img src="/assets/images/ThimbleKrox/cable_management.jpg"></a>
+  <a href="/assets/images/ThimbleKrox/soldering.jpg"><img src="/assets/images/ThimbleKrox/soldering.jpg" height="200"></a>
+  <a href="/assets/images/ThimbleKrox/cable_management.jpg"><img src="/assets/images/ThimbleKrox/cable_management.jpg" height="200"></a>
 </figure>
 
 ### Step 5: Code and Calibration
