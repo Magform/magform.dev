@@ -197,7 +197,7 @@ Using an advanced spatial prediction instead in which the color of a pixel is es
 - if it's on the first column, the pixel above it is used  
 - If we're on the last column, the prediction is based on the median value between the pixel above, the one to the left, and the one above and to the left  
 - In all the other cases, the pixel is predicted by calculating the median value between the pixel above, the one to the left, and the one above and to the right.
-<img src="/assets/images/Compression_Algorithm/advanced.jpg" title="Illustration of advanced spatial prediction"/>
+<img src="/assets/images/Compression_Algorithm/advanced.png" title="Illustration of advanced spatial prediction"/>
 
 Using this prediction, we notice that compressing randomly generated images is disadvantageous, but a little less than using linear prediction. Because the median of three randomly generated numbers from 0 to k is closer to half of k, predicting a randomly generated number from 0 to k from this value is more advantageous than from a random number from 0 to k.  
 With this prediction, compression is better if the colors of the image are "patch-like." We thus see an improvement in images like "lake" compared to all previously used compression systems. However, for images like "house" and "baboon," the result is a little worse compared to linear prediction, as both photos are more linearly dependent than "patch-like."
